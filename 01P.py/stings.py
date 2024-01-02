@@ -8,7 +8,7 @@ secret_string = ""
 for char in norm_string:
 
     # Store each character code in a new string
-    secret_string += str(ord(char))
+    secret_string += str(ord(char) - 23)
 
 # Print "Secret message"
 print("Secret Message :", secret_string)
@@ -20,7 +20,7 @@ for i in range(0, len(secret_string)-1, 2):
     char_code = secret_string[i] + secret_string[i+1]
 
     # Convert the code into characters and add them to a new string
-    norm_string += chr(int(char_code))
+    norm_string += chr(int(char_code) + 23)
 
 # Print Original Message 
 print("Original Message :", norm_string)
