@@ -6,4 +6,6 @@
 
 # x will always be the 1st value received and you only 
 #will deal with addition
+
+# Receive the string and split the string into variables
 x
