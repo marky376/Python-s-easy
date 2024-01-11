@@ -11,4 +11,6 @@
 
 # Convert the strings into integers
 
-# Convert the result into a string and join themx
+# Convert the result into a string and join them to the string "X = "
+
+# print()
