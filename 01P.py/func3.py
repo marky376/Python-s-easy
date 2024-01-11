@@ -8,4 +8,7 @@
 #will deal with addition
 
 # Receive the string and split the string into variables
-x
+
+# Convert the strings into integers
+
+# Convert the result into a string and join themx
