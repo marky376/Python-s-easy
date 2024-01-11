@@ -1,3 +1,9 @@
 #!/usr/bin/python3
 
-# Solve for x
+# Solve for x 
+
+# x + 4 = 9
+
+# x will always be the 1st value received and you only 
+#will deal with addition
+x
