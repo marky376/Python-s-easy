@@ -20,4 +20,4 @@ def solve_eq(equation):
     return "x = " + str(num2 - num1)
 
 # print()
-
+print(solve_eq("x + 4 = 9"))
