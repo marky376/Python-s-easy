@@ -38,6 +38,7 @@ def circle_area():
 
 def triangle_area():
     height = float(input("Please enter the height of the rectangle : "))
+    base = float(input("Please enter the base of the triangle : "))
 
 
 def main():
