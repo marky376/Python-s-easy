@@ -28,3 +28,5 @@ de getPrimes(max_number):
 # User input maximum number to be searched
 max_num = int(input("Search for Primes up to : "))
 
+# Calling the functions to check onthe maximum number
+
