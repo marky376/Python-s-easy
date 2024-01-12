@@ -9,8 +9,8 @@ def get_area(shape):
         circle_area()
     elif shape == "triangle":
         triangle_area()
-   else:
-       print("Please enter rectangle, square or triangle")
+    else:
+        print("Please enter rectangle, square or triangle")
 
 
 def main():
