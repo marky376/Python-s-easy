@@ -12,6 +12,8 @@ def get_area(shape):
     else:
         print("Please enter rectangle, square or triangle")
 
+def rectangle_area():
+
 
 def main():
     shape_type = input("Get area for what shape? : ")
