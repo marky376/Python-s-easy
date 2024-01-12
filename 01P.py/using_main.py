@@ -18,6 +18,9 @@ def rectangle_area():
     Area = length * width
     print(f"The area of the rectangle with {length} as the length and {width} as the width is {Area}")
 
+def circle_area():
+
+
 def main():
     shape_type = input("Get area for what shape? : ")
 
