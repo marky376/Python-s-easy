@@ -16,7 +16,7 @@ def is_prime(num):
     return True
 
 # forming a list of prime numbers
-de getPrimes(max_number):
+def getPrimes(max_number):
     list_of_primes = []
 
     for num1 in range(2, max_number):
