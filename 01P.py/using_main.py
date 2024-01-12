@@ -37,6 +37,7 @@ def circle_area():
     print(f"The area of the circle with {radius} as the radius is {Area}")
 
 def triangle_area():
+    height = float(input("Please enter the height of the rectangle : "))
 
 
 def main():
