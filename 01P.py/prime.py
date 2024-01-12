@@ -23,7 +23,7 @@ def getPrimes(max_number):
         if is_prime(num1):
             list_of_primes.append(num1)
 
-     return list_of_primes 
+    return list_of_primes 
 
 # User input maximum number to be searched
 max_num = int(input("Search for Primes up to : "))
