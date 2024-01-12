@@ -5,4 +5,7 @@
 
 # 6 is not a prime because it can be divided by 1, 2, 3 and itself
 
+# Input max prime
+
+# Use a for loop and check if modulus == 0 True
 
