@@ -4,11 +4,12 @@
 
 # Obviously creating a function
 
-def sumAll(*args):
-    sum = 0
+def sum_all(*args):
+    total = 0
 
     for i in args:
-        sum += i
+        total += i
+
     return sum
 
 
