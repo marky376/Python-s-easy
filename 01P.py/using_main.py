@@ -40,6 +40,8 @@ def triangle_area():
     height = float(input("Please enter the height of the rectangle : "))
     base = float(input("Please enter the base of the triangle : "))
     Area = height * 0.5 * base
+    print(f"The area of triangle with {height} as the height and {base} as the base is {Area}")
+
 
 def main():
     shape_type = input("Get area for what shape? : ")
