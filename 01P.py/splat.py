@@ -5,3 +5,7 @@
 # Obviously creating a function
 
 def sumAll(*args):
+    sum = 0
+
+    for i in args:
+
