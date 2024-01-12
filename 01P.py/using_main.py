@@ -19,7 +19,8 @@ def rectangle_area():
     print(f"The area of the rectangle with {length} as the length and {width} as the width is {Area}")
 
 def circle_area():
-
+    set pi as 3.14
+    radius = float(input(
 
 def main():
     shape_type = input("Get area for what shape? : ")
