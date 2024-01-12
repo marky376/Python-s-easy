@@ -16,7 +16,7 @@ def rectangle_area():
     length = float(input("Please enter the length of the rectangle : "))
     width = float(input("Please enter the width of the rectangle : "))
     Area = length * width
-    print(f"The area of the rectangle with {length} as the length
+    print(f"The area of the rectangle with {length} as the length and {width} as the width is {Area}")
 
 def main():
     shape_type = input("Get area for what shape? : ")
