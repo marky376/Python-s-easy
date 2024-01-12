@@ -26,4 +26,5 @@ de getPrimes(max_number):
      return list_of_primes 
 
 # User input maximum number to be searched
+max_num = int(input("Search for Primes up to : "))
 
