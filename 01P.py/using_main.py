@@ -36,6 +36,8 @@ def circle_area():
 
     print(f"The area of the circle with {radius} as the radius is {Area}")
 
+def triangle_area():
+
 
 def main():
     shape_type = input("Get area for what shape? : ")
