@@ -7,7 +7,9 @@ def get_area(shape):
     
     elif shape == "circle":
         circle_area()
-    elif shape    
+    elif shape == "triangle":
+        triangle_area()
+        
 
 def main():
     shape_type = input("Get area for what shape? : ")
