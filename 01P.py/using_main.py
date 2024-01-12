@@ -32,7 +32,10 @@ def circle_area():
 
     radius = float(input("Please enter the radius of the circle : "))
 
-    Area = radius * Pi * radius
+    Area = radius * pi * radius
+
+    print(f"The area of the circle with {radius} as the radius is {Area}")
+
 
 def main():
     shape_type = input("Get area for what shape? : ")
