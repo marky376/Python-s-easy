@@ -29,4 +29,7 @@ de getPrimes(max_number):
 max_num = int(input("Search for Primes up to : "))
 
 # Calling the functions to check onthe maximum number
+list_of_primes = getPrimes(max_num)
+
+# A for loop to print out every value in the list_of_primes
 
