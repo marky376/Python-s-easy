@@ -20,3 +20,7 @@ de getPrimes(max_number):
     list_of_primes = []
 
     for num1 in range(2, max_number):
+        if is_prime(num1):
+            list_of_primes.append(num1)
+
+     return list_of_primes       
