@@ -32,4 +32,5 @@ max_num = int(input("Search for Primes up to : "))
 list_of_primes = getPrimes(max_num)
 
 # A for loop to print out every value in the list_of_primes
-
+for prime in list_of_primes:
+    print(prime)
