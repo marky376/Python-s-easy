@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import Pi from math
+from math import pi
 def get_area(shape):
     shape = shape.lower()
 
