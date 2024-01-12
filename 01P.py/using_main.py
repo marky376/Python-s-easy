@@ -13,8 +13,8 @@ def get_area(shape):
         print("Please enter rectangle, square or triangle")
 
 def rectangle_area():
-    length = float(input("Please enter the length of the rectangle : ")
-    width = float(input("Please enter the width of the rectangle : ")
+    length = float(input("Please enter the length of the rectangle : "))
+    width = float(input("Please enter the width of the rectangle : "))
     Area = length * width
     return Area
 
